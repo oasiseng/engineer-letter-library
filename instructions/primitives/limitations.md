@@ -1,7 +1,3 @@
-# Primitive: Limitations
+# Limitations Primitive
 
-Purpose: provide conservative limitation clauses.
-
-TODO:
-- Standardize limitations by observation method and access level.
-- Add guidance for missing-information scenarios.
+State what was not reviewed, what access was not available, and what conclusions are out of scope.

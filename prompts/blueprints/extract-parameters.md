@@ -1,7 +1,6 @@
-# Prompt Blueprint: Extract Parameters
+# Extract Parameters Blueprint
 
-Goal: normalize user-provided project details into schema fields.
+Extract required fields from source inputs.
+If required data is missing, return a structured missing-data list.
 
-Output format:
-- YAML object aligned to `schemas/letter-parameters/parameter-schema.example.yaml`
-- Include `missing_required_fields` list
+Before returning extracted data, ensure identifying details are normalized to placeholders (for example `{{PROJECT_ADDRESS}}`, `{{CLIENT_NAME_OR_ROLE}}`).

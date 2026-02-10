@@ -1,36 +1,8 @@
-# Example source manifest (metadata only)
-source_id: us-fl-lee-county-residential-inspections-001
-source_type: web-guide
-status: proposed
-
-provenance:
-  title: "Lee County: A Comprehensive Guide for Residential Inspections"
-  url: "https://oasisengineering.com/2023/09/25/lee-county-a-comprehensive-guide-for-residential-inspections/"
-  publisher: "Oasis Engineering"
-  published_date: "2023-09-25"
-  retrieved_date: "TODO-YYYY-MM-DD"
-
-jurisdiction:
-  country: US
-  state: FL
-  local_authority: "Lee County"
-
-tags:
-  - residential
-  - inspections
-  - permitting
-
-usage_controls:
-  license_status: "TODO-confirm"
-  may_store_full_text: false
-  may_quote_excerpt: "TODO-confirm"
-  notes: "Store metadata by default. Add text excerpts only after permission is documented."
-
-review:
-  pe_review_required: true
-  legal_review_required: true
-  last_reviewed: "TODO-YYYY-MM-DD"
-
-summary_stub:
-  intent: "Capture local process context that may affect draft structure and checklist prompts."
-  non_binding_notice: "Reference-only. Not a compliance determination."
+source_id: us-fl-lee-county-residential-inspections
+publisher: "Lee County Community Development"
+jurisdiction: "US-FL-Lee-County"
+title: "Residential Inspection Guidance"
+url: "https://example.org/lee-county-residential-inspections"
+retrieved_at_utc: "2026-02-10T00:00:00Z"
+license_status: "unknown-review-required"
+notes: "Example metadata only; replace with verified source information."

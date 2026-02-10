@@ -1,7 +1,4 @@
-# Primitive: Assumptions
+# Assumptions Primitive
 
-Purpose: store reusable, neutral assumption language blocks.
-
-TODO:
-- Separate field-observation assumptions vs. document-based assumptions.
-- Tag each assumption with applicability constraints.
+Use concise, testable assumptions tied to identified inputs.
+Avoid hidden assumptions.

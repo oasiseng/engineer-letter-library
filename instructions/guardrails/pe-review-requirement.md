@@ -1,7 +1,5 @@
 # PE Review Requirement
 
-Every generated draft must include a visible reminder that final review and authorization by a licensed PE is required before external use.
+All generated content is draft-only until reviewed and approved by the responsible PE.
 
-TODO:
-- Define mandatory PE-review checklist fields.
-- Define release gate criteria for future automation.
+No generated output may be treated as signed/sealed engineering work product.

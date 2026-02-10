@@ -1,11 +1,12 @@
-# Training Data Intake (Future)
+# Training Data
 
-This directory is reserved for future ingestion of real-world letter corpora.
+Future source letter corpora should be stored with:
+- provenance metadata
+- anonymization status
+- permission/license status
+- ingestion date
+- discipline and jurisdiction tags
 
-## Planned Contents
-- Raw source files (as permitted)
-- Metadata manifests (origin, date, discipline, jurisdiction)
-- Redaction notes
-- Usage permissions and provenance records
+## Storage Rule
 
-Do not add confidential or proprietary source files without explicit authorization.
+Only store de-identified artifacts. Replace names, addresses, and client identifiers with placeholders before commit.

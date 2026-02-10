@@ -1,17 +1,16 @@
-# Contribution Policy (Scaffolding Phase)
+# Contribution Policy
 
-## Acceptable Contributions
-- Folder structure improvements
-- Neutral template block definitions
-- Parameter schema enhancements
-- LLM guardrail refinements
-- Documentation clarifications
+## Minimum Requirements
 
-## Not Acceptable in Scaffolding Phase
-- Final engineer opinions
-- Compliance determinations
-- Stamped-language simulation
-- Jurisdiction-specific legal conclusions
+1. Preserve legal/safety boundaries.
+2. Keep templates neutral and non-determinative.
+3. Include provenance metadata for every source-derived artifact.
+4. Avoid jurisdictional claims without source references.
+5. Ensure all drafts remain PE-review-required.
+6. Sanitize source-derived text before ingestion (no client/site-specific identifiers).
 
-## Review Expectations
-Changes should be modular, documented, and compatible with PE-led review workflows.
+## Pull Request Expectations
+
+- Describe what changed and why.
+- Note safety implications.
+- Confirm no final engineering determinations were introduced.

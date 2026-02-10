@@ -1,43 +1,21 @@
-# Example schema scaffold (non-binding placeholder)
-version: 0.1
-required:
-  - jurisdiction
-  - discipline
-  - letter_type
-  - project_metadata
-  - scope_of_review
-properties:
-  jurisdiction:
-    type: string
-    description: "State/province/city authority context"
-  discipline:
-    type: string
-    enum: [structural, civil, geotechnical, mechanical, electrical, other]
-  letter_type:
-    type: string
-    description: "Template family identifier"
-  project_metadata:
-    type: object
-    properties:
-      project_name: { type: string }
-      project_address: { type: string }
-      permit_reference: { type: string }
-  inspection_context:
-    type: object
-    properties:
-      inspection_date: { type: string, format: date }
-      observation_method: { type: string }
-      access_limitations: { type: array, items: { type: string } }
-  scope_of_review:
-    type: string
-  assumptions:
-    type: array
-    items: { type: string }
-  limitations:
-    type: array
-    items: { type: string }
-  requested_by:
-    type: string
-  pe_reviewer:
-    type: object
-    description: "Placeholder only; no licensure claims in scaffold phase"
+jurisdiction: "{{JURISDICTION}}"
+discipline: "structural"
+letter_type: "focused-observation-summary"
+project_metadata:
+  name: "{{PROJECT_NAME}}"
+  address: "{{PROJECT_ADDRESS}}"
+  permit_reference: "{{PERMIT_REFERENCE}}"
+inspection_context:
+  date: "{{INSPECTION_DATE}}"
+  method: "visual"
+  observed_areas:
+    - "{{OBSERVED_AREA}}"
+  access_limitations:
+    - "No destructive testing"
+scope_of_review: "Limited to observed condition at accessible areas"
+assumptions:
+  - "Concealed elements were not assessed"
+limitations:
+  - "This draft does not provide final code compliance certification"
+requested_by: "{{REQUESTING_PARTY_ROLE}}"
+pe_reviewer: "{{PE_REVIEWER_NAME_OR_ROLE}}"

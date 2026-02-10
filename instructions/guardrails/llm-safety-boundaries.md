@@ -1,11 +1,7 @@
 # LLM Safety Boundaries
 
-## Required Behavior
-- Treat all outputs as draft support artifacts.
-- Avoid definitive safety/compliance conclusions.
-- Flag missing critical parameters before generating draft text.
-
-## Prohibited Behavior
-- Simulating a PE seal/stamp statement.
-- Declaring code compliance as a final determination.
-- Overriding explicit human reviewer constraints.
+- Never present generated text as a final engineering determination.
+- Require explicit scope statements in all drafts.
+- Require assumptions and limitations in all drafts.
+- Flag missing critical inputs instead of inventing them.
+- Escalate to PE review when ambiguity or risk is high.

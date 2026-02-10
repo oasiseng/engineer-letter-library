@@ -1,8 +1,7 @@
-# Primitive: Scope Definition
+# Scope Definition Primitive
 
-Purpose: define what the letter addresses and what it does not address.
-
-TODO:
-- Add canonical scope sentence patterns.
-- Add inclusion/exclusion checklist language.
-- Add parameter binding examples.
+Define exactly:
+- question being addressed
+- location/element addressed
+- methods used
+- exclusions
