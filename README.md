@@ -21,10 +21,16 @@ This phase intentionally excludes final opinion language, engineering calculatio
 ```text
 .
 ├── data/
+│   ├── references/
+│   │   ├── README.md
+│   │   └── jurisdiction-guides/
+│   │       ├── README.md
+│   │       └── us-fl-lee-county-residential-inspections-source.example.yaml
 │   └── training/
 │       └── README.md
 ├── docs/
 │   ├── architecture/
+│   │   ├── engineer-letter-faq.md
 │   │   └── repository-map.md
 │   └── governance/
 │       ├── contribution-policy.md
@@ -66,6 +72,12 @@ This phase intentionally excludes final opinion language, engineering calculatio
 └── README.md
 ```
 
+
+## Orientation Documents
+
+- `what-is-an-engineer-letter.md`: concise definition and repository boundary framing.
+- `docs/architecture/engineer-letter-faq.md`: practical FAQ for contributors and users.
+
 ## Design Principles
 
 1. **PE authority is non-delegable**
@@ -101,6 +113,15 @@ See `schemas/letter-parameters/` for scaffold files.
 - Keep scenario modules short, specific, and reusable.
 - Keep template files content-neutral and section-oriented.
 - Prefer `.md` for instruction documents and `.yaml` for structured parameter examples.
+
+## External Guide Intake (e.g., Lee County, Florida)
+
+Yes—external guides can be loaded as **reference metadata** under `data/references/` using source manifests.
+
+Use this flow:
+1. Add source metadata YAML (URL, publisher, jurisdiction, date, license status).
+2. Keep full-text storage disabled unless permissions are explicitly documented.
+3. Run PE/legal review before converting insights into reusable scaffolding.
 
 ## How This Repository Evolves
 

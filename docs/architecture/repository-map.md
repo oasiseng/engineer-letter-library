@@ -22,3 +22,9 @@ Parameter catalogs and validation rules used to construct draft outputs consiste
 
 ## `data/training/`
 Future ingestion location for real-world letter corpora and metadata.
+
+## `docs/architecture/engineer-letter-faq.md`
+Contributor-facing FAQ for high-level repository usage and boundaries.
+
+## `data/references/`
+Metadata-first intake for external jurisdiction/process guides (provenance, licensing, review status).
