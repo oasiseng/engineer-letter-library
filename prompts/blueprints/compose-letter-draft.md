@@ -1,8 +1,4 @@
-# Prompt Blueprint: Compose Letter Draft
+# Compose Letter Draft Blueprint
 
-Goal: assemble a neutral draft letter from validated parameters.
-
-Constraints:
-- No final engineering determination language.
-- Include assumptions + limitations sections.
-- Add explicit PE final review requirement.
+Compose draft sections from validated parameters only.
+Do not infer final compliance determinations.

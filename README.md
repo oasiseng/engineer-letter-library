@@ -34,6 +34,7 @@ This phase intentionally excludes final opinion language, engineering calculatio
 │   │   └── repository-map.md
 │   └── governance/
 │       ├── contribution-policy.md
+│       ├── data-sanitization-policy.md
 │       └── legal-boundaries.md
 ├── instructions/
 │   ├── guardrails/
@@ -42,6 +43,7 @@ This phase intentionally excludes final opinion language, engineering calculatio
 │   └── primitives/
 │       ├── assumptions.md
 │       ├── limitations.md
+│       ├── redaction-and-anonymization.md
 │       ├── scope-definition.md
 │       └── standard-disclaimers.md
 ├── prompts/
@@ -63,6 +65,7 @@ This phase intentionally excludes final opinion language, engineering calculatio
 ├── templates/
 │   ├── README.md
 │   ├── _shared/
+│   │   ├── placeholder-conventions.md
 │   │   └── section-blocks.md
 │   ├── civil/
 │   │   └── README.md
@@ -77,6 +80,9 @@ This phase intentionally excludes final opinion language, engineering calculatio
 
 - `what-is-an-engineer-letter.md`: concise definition and repository boundary framing.
 - `docs/architecture/engineer-letter-faq.md`: practical FAQ for contributors and users.
+- `docs/architecture/repository-map.md`: map of repository responsibilities and folder intent.
+- `docs/review/current-state-review.md`: practical assessment and near-term improvement plan.
+- `docs/governance/data-sanitization-policy.md`: de-identification rules for source-derived content.
 
 ## Design Principles
 
@@ -134,4 +140,6 @@ When real-world training letters are added later:
 
 ## Current Status
 
-This repository currently contains scaffolding only. It is ready for phased population with curated, reviewable source material and PE-supervised workflows.
+This repository now includes baseline scaffolding across architecture, governance, safety guardrails, prompts, schemas, scenarios, and template placeholders.
+
+It is prepared for phased population with curated source material, provenance metadata, and PE-supervised workflows.

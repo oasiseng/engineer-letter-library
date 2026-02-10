@@ -16,3 +16,7 @@ This folder will contain reusable **letter structure templates**.
 5. Assumptions
 6. Limitations
 7. PE review/signature block placeholder
+
+
+## Placeholder Standard
+Use the shared placeholder naming guidance in `templates/_shared/placeholder-conventions.md`.

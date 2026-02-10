@@ -1,7 +1,3 @@
-# Primitive: Standard Disclaimers
+# Standard Disclaimers Primitive
 
-Purpose: hold non-jurisdictional disclaimer patterns.
-
-TODO:
-- Keep wording general and review-ready.
-- Avoid language that could be interpreted as legal advice.
+Use neutral disclaimers that preserve PE authority and jurisdictional boundaries.

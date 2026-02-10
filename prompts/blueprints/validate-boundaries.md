@@ -1,9 +1,7 @@
-# Prompt Blueprint: Validate Boundaries
+# Validate Boundaries Blueprint
 
-Goal: run boundary checks against generated draft.
-
-Checks:
-- No definitive compliance assertions.
-- No simulated stamp/seal language.
-- Scope limits and assumptions are present.
-- Missing information is explicitly acknowledged.
+Before drafting, confirm:
+- scope is explicit,
+- assumptions are explicit,
+- limitations are explicit,
+- PE review requirement is present.

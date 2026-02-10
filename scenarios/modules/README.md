@@ -1,10 +1,8 @@
 # Scenario Modules
 
-Scenario modules are context packets used to tailor draft structure for specific situations.
+Use modules to capture recurring field conditions and adjust wording safely.
 
-Each module should include:
-- Situation summary
-- Required parameters
-- Optional parameters
-- Scope pitfalls and common exclusions
-- Drafting notes (non-decisional)
+Examples:
+- limited-access inspection
+- existing-condition uncertainty
+- deferred submittal pending

@@ -1,5 +1,3 @@
-# Civil Template Set (Placeholder)
+# Civil Templates
 
-Reserved for civil-discipline template variants.
-
-Keep all initial files focused on section structure, placeholders, and drafting boundaries.
+Reserved for civil-focused neutral letter structures.

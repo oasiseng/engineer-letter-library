@@ -1,12 +1,5 @@
-# Jurisdiction Guides (Metadata)
+# Jurisdiction Guides
 
-Store one source manifest per jurisdiction-oriented guide.
+This folder contains source metadata records for jurisdiction-specific guidance.
 
-Filename pattern:
-`<country-or-state>-<jurisdiction>-<topic>-source.yaml`
-
-Examples:
-- `us-fl-lee-county-residential-inspections-source.yaml`
-- `us-ca-los-angeles-seismic-retrofit-source.yaml`
-
-Use these manifests to capture provenance and review status before any content is used.
+Keep full-text content out of this repository unless rights are clearly documented.

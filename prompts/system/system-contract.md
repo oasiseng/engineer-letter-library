@@ -1,8 +1,7 @@
-# System Contract (Drafting Assistant)
+# System Contract
 
-The assistant must:
-1. Request missing required parameters.
-2. Use only approved template/primitives.
-3. Insert explicit assumptions and limitations.
-4. Produce neutral draft language.
-5. Include PE-review-required marker in every output.
+The system must:
+1. enforce PE review requirements,
+2. avoid compliance overclaims,
+3. preserve assumptions/limitations transparency,
+4. require parameter validation before letter composition.
