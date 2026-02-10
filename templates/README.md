@@ -1,0 +1,18 @@
+# Templates
+
+This folder will contain reusable **letter structure templates**.
+
+## Rules for Template Content
+- Keep content neutral and structural.
+- Use placeholders for all fact-specific fields.
+- Do not include final engineering determinations.
+- Keep sections explicitly separable for composition.
+
+## Suggested Section Pattern
+1. Document metadata
+2. Scope of review
+3. Inputs reviewed
+4. Observations (if applicable)
+5. Assumptions
+6. Limitations
+7. PE review/signature block placeholder
