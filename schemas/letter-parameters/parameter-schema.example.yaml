@@ -1,0 +1,43 @@
+# Example schema scaffold (non-binding placeholder)
+version: 0.1
+required:
+  - jurisdiction
+  - discipline
+  - letter_type
+  - project_metadata
+  - scope_of_review
+properties:
+  jurisdiction:
+    type: string
+    description: "State/province/city authority context"
+  discipline:
+    type: string
+    enum: [structural, civil, geotechnical, mechanical, electrical, other]
+  letter_type:
+    type: string
+    description: "Template family identifier"
+  project_metadata:
+    type: object
+    properties:
+      project_name: { type: string }
+      project_address: { type: string }
+      permit_reference: { type: string }
+  inspection_context:
+    type: object
+    properties:
+      inspection_date: { type: string, format: date }
+      observation_method: { type: string }
+      access_limitations: { type: array, items: { type: string } }
+  scope_of_review:
+    type: string
+  assumptions:
+    type: array
+    items: { type: string }
+  limitations:
+    type: array
+    items: { type: string }
+  requested_by:
+    type: string
+  pe_reviewer:
+    type: object
+    description: "Placeholder only; no licensure claims in scaffold phase"

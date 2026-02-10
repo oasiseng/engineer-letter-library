@@ -1,27 +1,47 @@
-# What is an Engineer Letter?
+# What Is an Engineer Letter?
 
-An **Engineer Letter** (also known as a "PE Letter," "Stamped Letter," or "Letter of Certification") is an official document written and signed by a licensed Professional Engineer (PE).
+An engineer letter (often called a PE letter) is a formal written document prepared by or under the responsible direction of a licensed Professional Engineer (PE).
 
-At its core, the letter is a professional's expert opinion, put in writing. It certifies that a specific aspect of a construction project, a design plan, or an existing structure has been reviewed and found to comply with relevant building codes, safety standards, and sound engineering principles.
+In practice, these letters are used to communicate a professional opinion for a **specific scope** and **specific set of inputs**.
 
-### What is its Purpose?
+## General Purpose (Non-Exhaustive)
 
-Think of it as a stamp of approval from a qualified expert. Its primary purposes are to:
+Depending on project context, engineer letters are often requested to:
 
-1.  **Assure a Building Department:** It provides a city or county building official with the verification they need to approve a permit or close out an inspection. The engineer is essentially telling the official, "I have reviewed this, and it is safe and compliant."
-2.  **Verify Structural Integrity:** For projects involving loads, foundations, or modifications to a building's frame, the letter confirms that the design is structurally sound.
-3.  **Solve Specific Problems:** Sometimes, a project has a unique or non-standard element that isn't covered by prescriptive code. An engineer's letter can provide a custom-designed solution and the justification for it.
-4.  **Provide Legal and Insurance Documentation:** The letter serves as formal documentation that due diligence was performed, which can be critical for insurance purposes or if legal questions arise later.
+- Document a focused engineering review for permit or inspection workflows.
+- Clarify non-prescriptive or project-specific conditions.
+- Record defined assumptions, limitations, and observed conditions.
+- Provide formal project documentation for stakeholders.
 
-### Who Typically Requests It?
-- Homeowners applying for permits
-- Contractors dealing with code corrections
-- Architects and designers validating non-prescriptive elements
-- Realtors or insurance agents needing structural verification
+> Note: exact acceptance criteria and use are determined by local authorities and the responsible PE.
 
-### What It's Not
+## Typical Requesting Parties
 
-* **It's not a full set of blueprints.** An engineer letter is typically a 1-3 page document focused on a *specific issue*. It is delivered as a digitally signed and sealed PDF, ready for submission.
-* **It's not a simple inspection report.** While an inspection is part of the process, the letter goes a step further by providing a professional certification and bearing the engineer's legal and professional responsibility.
+Requesters commonly include:
 
-In short, an engineer letter is the tool used to provide clarity, confidence, and compliance for specific parts of a building project.
+- Property owners or owner representatives
+- Contractors and specialty subcontractors
+- Architects or design professionals
+- Permit coordinators, insurers, or other project stakeholders
+
+## What It Is Not
+
+- Not a substitute for full construction documents.
+- Not a blanket certification of all project conditions.
+- Not independent of assumptions, access limits, or scope exclusions.
+
+## Repository Context
+
+This repository does **not** issue engineer letters and does **not** provide engineering advice.
+It provides reusable language structure and workflow scaffolding to support PE-led drafting processes.
+
+## Key Characteristics (General)
+
+- Scope-bound: addresses a narrow, explicitly stated question.
+- Input-dependent: tied to identified documents, observations, and assumptions.
+- Limitation-aware: includes exclusions, constraints, and boundaries.
+- Professionally accountable: final release and certification authority belongs to the responsible PE.
+
+## Important Limitation
+
+Nothing in this repository should be interpreted as replacing engineering judgment, local code interpretation, or jurisdictional approval processes.
