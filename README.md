@@ -82,6 +82,7 @@ This phase intentionally excludes final opinion language, engineering calculatio
 - `docs/architecture/engineer-letter-faq.md`: practical FAQ for contributors and users.
 - `docs/architecture/repository-map.md`: map of repository responsibilities and folder intent.
 - `docs/review/current-state-review.md`: practical assessment and near-term improvement plan.
+- `docs/workflows/letter-corpus-intake-and-skill-packaging.md`: step-by-step process for sanitizing private letters, synthesizing categories/tips, and packaging a reusable skill.
 - `docs/governance/data-sanitization-policy.md`: de-identification rules for source-derived content.
 
 ## Design Principles
