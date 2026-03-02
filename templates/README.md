@@ -20,3 +20,12 @@ This folder will contain reusable **letter structure templates**.
 
 ## Placeholder Standard
 Use the shared placeholder naming guidance in `templates/_shared/placeholder-conventions.md`.
+
+## Batch Cleanup Workflow
+
+If you upload a batch of example letters, run the cleanup playbook before promotion:
+
+- `docs/workflows/template-cleanup-playbook.md`
+- `python scripts/template_cleanup_audit.py templates`
+
+Only move files out of `templates/_incoming/` after they pass sanitization and placeholder normalization.
