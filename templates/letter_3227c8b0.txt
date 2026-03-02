@@ -1,0 +1,25 @@
+[JURISDICTION] Building Permits						December 4th, 2025
+[PROJECT_ADDRESS] [ZIP_CODE]
+RE: [PROJECT_ADDRESS] [ZIP_CODE]- [PERMIT_ID]
+SUBJ: In-Progress Inspection Evaluation – Florida Building Code §110
+Dear [RECIPIENT]
+Pursuant to the inspection requirements applicable per the Florida Building Code (FBC) Section 110 for the residential addition project work under permit [PERMIT_ID], the following in-progress inspections have been completed as of 12/04/2025:
+
+102 Building Foundation
+109 Building Lintels/Bond Beam
+119 Building Exterior Wall Covering
+111 Building Framing
+110 Building Sheathing
+202 Electric Rough
+130 Building Roof Dry In
+131 Building Roof Flashing/Metals
+
+During our engineering review, it was noted that the lanai wall was originally shown as wood framing on the permitted plans but was constructed in the field as CMU masonry. This condition was evaluated and documented. [COMPANY_NAME] is preparing a revised plan set that reflects the actual construction and will upload this updated documentation to the permit record for compliance and permanent recordkeeping.
+To the best of my knowledge and ability, the referenced work was constructed in accordance with the applicable engineering standards, approved plans (as field-modified), and governing codes prescribed per permit [PERMIT_ID], and is found to be in conformance with the Florida Building Code, 2023 8th Edition.
+To affirm compliance with the requirements, it should be noted that portions of the work were covered before the Building Officials were able to perform the corresponding in-progress inspections. Consequently, the as-built conditions were evaluated thoroughly, including a review of supporting documentation, photographs of the in-progress work, and a non-invasive visual inspection of the accessible areas. Based on this evaluation, the referenced construction has been found to meet the necessary standards of adequacy and code compliance.
+As such, [COMPANY_NAME] will be assuming responsibility for the in-progress inspections referenced and recommending approval from the Building Officials. Please contact us should you have any questions or require additional information.
+Sincerely,
+[ENGINEER_NAME], PE
+Supporting Documentation
+
+

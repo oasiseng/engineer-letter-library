@@ -1,0 +1,16 @@
+October 28th, 2025
+[AGENCY_NAME]
+[PROJECT_ADDRESS] [ZIP_CODE]
+RE: [PROJECT_ADDRESS] [ZIP_CODE]– Special Inspections Letter for Metal Building Project
+To whom it may concern,
+The team at [COMPANY_NAME]. is constructing the accessory metal building project referenced above using construction documents prepared by [COMPANY_NAME], EOR [ENGINEER_NAME], P.E. No. [LICENSE_ID]. The building project at [PROJECT_ADDRESS] [ZIP_CODE] consists of a 30' x 40' x 18'/16' residential storage/garage accessory metal building.
+The building structure includes the foundation system (footings, floor slab, and internal grade beams) designed to resist the required gravity and lateral loads per the 2024 Edition of the International Residential Code – Chapter 4, as detailed on the permitted structural construction documents issued by the [JURISDICTION] foundation consists of a 4-inch reinforced concrete slab with perimeter and internal grade beams (12" x 18", up to 42" deep as needed), designed with reinforcing steel, stirrups, control joints, ½-inch anchor bolts, and minimum 2500 psi concrete, based on an assumed soil bearing capacity of 1500 psf.
+Qualified individuals from this office have reviewed the approved permit drawings and the supporting documentation for the completed foundation. Based on these documents and our professional judgment, the foundation construction appears to be in general conformance with the permitted construction documents. A field observation was performed in accordance with generally accepted contractual guidelines described in AIA Document C-141. These services do not constitute compliance with Section 1704, “Special Inspections,” of the 2024 Edition of the International Building Code.
+Additionally, Special Inspections for this project will be performed in accordance with [JURISDICTION] IB132 and the adopted 2021 International Building Code (IBC). The following inspections are anticipated based on the project scope (tubular metal residential accessory structure, Risk Category I):
+Steel Construction (IBC §1705.2): Field verification of bolted and/or welded steel connections for compliance with approved plans and standards.
+Wind Resistance (IBC §1705.12): Inspection of anchor bolts, bracing, and lateral load path elements contributing to wind load resistance.
+As denoted by the engineering seal on this letter, we affirm that we have fulfilled our obligations as professional engineers under the Texas Engineering Practice Act, ensuring protection of public health, safety, and welfare in the practice of engineering.
+Please contact us if you have any questions or require additional information.
+[ENGINEER_NAME], PE
+Supporting Documentation
+

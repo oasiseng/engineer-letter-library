@@ -1,0 +1,50 @@
+[PROJECT_ADDRESS]. Petersburg Building & Permitting                                                                            February 6th, 2026
+[PROJECT_ADDRESS] [ZIP_CODE]
+RE: 	[PROJECT_ADDRESS] [ZIP_CODE]– Door/Window Replacement
+Project
+SUBJ: Progress Inspections –
+Roofing Permit [PERMIT_ID]
+HVAC Permit [PERMIT_ID] – [PERMIT_ID]
+Dear [RECIPIENT],
+Pursuant to the inspection requirements applicable per Florida Statutes §§553.791 and 553.844 and the Florida Building Code (FBC) 2020, 7th Edition (R903.1, R905, and 1503.1), this letter documents a retroactive engineering inspection and certification for the re-roofing work performed under permit [PERMIT_ID], originally issued on 08/12/2021. The following inspections are hereby certified as completed as of 02/06/2026, for the purpose of permit close-out:
+
+130 Building Roof Dry-in - Pass
+131 Building Roof Flashing/Metals - Pass
+132 Building Roof Final - Pass
+
+Scope and Basis of Review
+The subject roof was re-roofed circa 2021, and in-progress inspections were not performed at the time of installation. As such, this certification is issued after-the-fact and is limited to verifying code compliance of the roofing system as installed, strictly for permitting purposes.
+This determination is based upon the following:
+A final non-invasive visual inspection of the roof covering and appurtenances
+Review of available construction documentation and photographs
+Limited invasive verification, performed in the presence of the licensed roofing contractor, consisting of the temporary removal of a shingle course to confirm:
+Roof underlayment type and installation
+Shingle fastening pattern and attachment
+Following verification, the affected area was restored using matching shingles, re-nailed in accordance with manufacturer requirements, and sealed with roofing cement.
+
+Figure 1: Limited invasive verification to verify nailing pattern and underlayment at a random location.
+
+Product Approvals and Materials Observed
+Based on the inspection and verification performed, the following Florida Product Approvals were confirmed:
+FL2569.2-R22 — Self-adhering roof underlayment (verified via limited invasive inspection)
+FL30310-R1 / FL30310.1-R1 — Asphalt shingles tested to ASTM D3161, Class F
+
+Compliance Statement
+To the best of my knowledge and professional ability, the roofing work associated with permit [PERMIT_ID] has been found to be in substantial conformance with the Florida Building Code, 2020 7th Edition, applicable product approvals, and standard roofing installation practices. Previously noted deficiencies related to drip edge terminations and localized shingle conditions near the HVAC condenser have been observed to be corrected.
+Limitations and Exclusions
+This certification is limited solely to the roofing system for permit compliance purposes and does not constitute a warranty, guarantee, or evaluation of:
+The overall building envelope performance
+Interior finishes, ceilings, or framing
+Past, present, or future water intrusion events
+During the interior walk-through, localized ceiling water damage was observed. No determination is made herein as to the origin, timing, or cause of any interior damage, and such observations are expressly outside the scope of this roofing permit close-out certification.
+No destructive testing (beyond the limited shingle verification noted above), moisture mapping, or forensic water intrusion analysis was performed.
+Recommendation
+Based on the findings described above, [COMPANY_NAME] recommends final approval and permit close-out for the referenced roofing permit.
+Please contact us should you have any questions or require additional information.
+Sincerely,
+[ENGINEER_NAME], PE
+Supporting Photographs
+
+
+
+

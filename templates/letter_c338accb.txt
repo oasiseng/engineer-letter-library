@@ -1,0 +1,21 @@
+August 28th, 2025
+[AGENCY_NAME]
+[PROJECT_ADDRESS] [ZIP_CODE]
+RE: [PROJECT_ADDRESS] [ZIP_CODE]– Engineered Foundation Letter: 20'x25'x12' Residential Storage/Garage Accessory Metal Building
+To whom it may concern,
+Per the request of the contractor, we have reviewed the design of a new foundation at the above-referenced address to support a pre-engineered Residential Storage/Garage Accessory Metal Building (Non-Habitable) with plan dimensions of 20' x 25' x 12'. This letter is provided to certify the foundation design in accordance with Chapter 4, Foundations, of the 2024 International Residential Code (IRC).
+Foundation Design Specifications (See sheet 11-A/11 for more details):
+Slab: 4-inch-thick concrete slab reinforced with either 6x6 W2.0 x W2.0 welded wire fabric (WWF) or #3 rebar placed at 18 inches on center, each way.
+Perimeter Footings: 12 inches wide by 18 inches minimum depth (extending deeper where required by fill depth, up to a maximum of 42 inches), reinforced with 2 continuous #4 rebar—top and bottom, and #3 stirrups at 18" O.C.
+Internal Beams: 12" x 18" (extending deeper where required by fill depth, up to a maximum of 42 inches), reinforced with 4 #4 bars and #3 stirrups at 18" O.C. required at the midpoint, on both directions (20’ and 25’ midpoints).
+Anchor Bolts: 1/2-inch diameter with minimum 7-inch embedment depth, spaced per plan requirements and within 6 inches of each column post.
+Assumed Soil Bearing Capacity: 1500 psf minimum.
+Minimum Concrete Strength: 2500 psi at 28 days.
+Control Joints: Installed at mid-span in both slab directions, not exceeding 20 feet per segment.
+3" x 1" notch option: Incorporated at perimeter edges to accommodate base rail anchorage while maintaining structural edge distance requirements.
+
+
+Based on our review of the foundation plan titled Concrete Floor Plan – Edward Dempesey and the structural engineering sheets provided by the metal building manufacturer, we certify that the proposed foundation design complies with the structural intent and requirements of IRC 2024, Chapter 4. The design is hereby approved for construction.
+The reviewed permit drawings are included for reference. Please contact us with any questions or if additional information is required.
+Sincerely,
+[ENGINEER_NAME], PE

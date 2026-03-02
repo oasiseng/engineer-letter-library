@@ -1,0 +1,18 @@
+[JURISDICTION] Building Department                                    November 12th, 2025
+[PROJECT_ADDRESS] [ZIP_CODE]
+
+RE: [PROJECT_ADDRESS] [ZIP_CODE]– Supplemental Shotcrete Detail – Pool Permit [PERMIT_ID]
+
+Dear [RECIPIENT],
+This letter provides supplemental construction details for the retaining wall associated with the above-referenced permit, clarifying reinforcement and shotcrete application parameters used in conjunction with the approved structural drawings.
+
+Shotcrete Reinforcement and Construction Notes:
+4 – #4 bars in footer area with #4 bars at 24" O.C.
+#4 bar verticals at 48" O.C.
+#3 bars @ 12" O.C. each way (E.W.)
+Shotcrete shall be applied per ACI 318 (Structural Concrete) and ACI 506R (Shotcrete Guide). Concrete shall achieve a minimum compressive strength of 4,000 psi at 28 days, tested per ASTM C42. All materials and placement shall comply with the applicable ASTM standards (C94, C1602, C494, A615 Grade 60, C1059, and C309) and be performed by certified nozzle operators per ACI 506.3R.
+
+This information is provided as an engineering supplement to the approved permit drawings for BT-2025-[ZIP_CODE] and does not alter the design intent or scope of the approved structural plans.
+
+Respectfully,
+[ENGINEER_NAME], PE
