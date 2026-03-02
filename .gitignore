@@ -1,0 +1,5 @@
+# Private intake area for source letters (never commit raw letters)
+private/
+
+# Optional staging folder for newly uploaded templates
+templates/_incoming/
