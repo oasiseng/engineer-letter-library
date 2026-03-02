@@ -1,0 +1,23 @@
+[AGENCY_NAME]
+[PROJECT_ADDRESS] [ZIP_CODE]
+RE: 	[PROJECT_ADDRESS] [ZIP_CODE]– Window/Door Replacement
+SUBJ: In-progress Inspections – Permit No. [PERMIT_ID]
+Dear [RECIPIENT],
+Per the request of the contractor, our firm has been engaged to provide the engineering final inspection and certification for the completed door and window replacement project at the above-referenced residence. This letter is intended to document the inspection, confirm compliance, and assist with closing the active permit record.
+Pursuant to the inspection requirements applicable per the Florida Building Code (FBC) Section [PROJECT_ADDRESS] have been contacted by the Owner to provide inspections for the window and door replacement project. The following in-progress inspections have been completed as of 05/06/2025:
+BLD – Framing
+BLD – Door/Window
+
+The scope of work reviewed includes the full replacement of exterior doors and windows in accordance with the approved drawings. The specified systems and product approvals installed are as follows:
+Installed Products and Florida Product Approvals:
+SPA100 Aluminum Sliding Glass Door: FL30906.1-R2
+SPA100 Aluminum French Door: FL29092.1-R3
+SPA150 Window Wall System: FL29474.2-R5
+SP86 Aluminum Single Hung Window: FL46774.1-R0
+To the best of my knowledge and ability, the referenced work was constructed following the applicable engineering standards, approved plans, and codes. It is found to be in conformance with the Florida Building Code, 2023 (8th Edition). Construction has been found to meet the necessary standards of adequacy and code compliance.
+[COMPANY_NAME] will be assuming responsibility for the above-noted inspections and hereby requests approval from the Building Officials for the work in question.
+Please note that this certification is limited to the installed door and window systems referenced herein and does not represent a full structural assessment of the overall building envelope or foundation.
+Sincerely,
+[ENGINEER_NAME], PE
+Supporting Photographs
+

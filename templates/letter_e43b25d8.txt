@@ -1,0 +1,12 @@
+[AGENCY_NAME]
+[PROJECT_ADDRESS] [ZIP_CODE]
+RE:	[PROJECT_ADDRESS] [ZIP_CODE] – Foundation Plan for Metal Building / Engineered Foundation Letter
+Dear [RECIPIENT],
+
+Per the request of the Owner, we have reviewed the engineering plans for the construction of a new metal building at [PROJECT_ADDRESS] [ZIP_CODE].
+The engineering plans include the specification for engineered concrete slab foundation to be used for this project. This letter is to provide engineering certification to the engineering design of the foundation, consisting of 4” 3,000 psi concrete slab on grade with 6"x6"- W2.0/W2.0 W.W.F (or #3 rebar @ 18" c/c e.w) with engineered reinforced concrete footings on the perimeter and interior grade beams as detailed on the plans. This foundation covers a total plan area of 933 SF (total foundation footprint). Note that 12” minimum frost depth is required for this project, along with the application of a 6 mil. vapor barrier under the proposed slab.
+To the best of my knowledge and ability, the referenced engineered foundation was designed following the applicable engineering standards and building codes, including the International Residential Code (IRC) 2018. I hereby affirm that existing subsurface groundwater conditions and soils data were examined, and that the foundation design submitted has accounted for these conditions.
+Additionally, the building department has inquired about the metal sheathing used on walls and roofing envelopes. This letter is also to provide certification for the use of galvanized steel Class A rated 26Ga for the roof and Class A rated 29Ga for the walls. The use of 26Ga and 29Ga for the roof and walls respectively for the reference sheathing is compliant with the IRC 2018 and with the minimum specifications of the plans.
+For additional dimensions, notes, and applicable details, please refer to the attached engineering drawings that correspond to this project.
+Please contact us should you have any questions or require additional information.
+[ENGINEER_NAME], PE

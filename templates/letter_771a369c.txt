@@ -1,0 +1,37 @@
+[AGENCY_NAME]
+[PROJECT_ADDRESS] [ZIP_CODE]
+RE: 	[PROJECT_ADDRESS]: [PERMIT_ID] Plan Review Comments
+Dear [RECIPIENT],
+In response to the plan review comments, we are submitting revised plans for the building improvements project at the subject residence under permit [PERMIT_ID]. As per request of the Owner, we have been consulted with to revise and finalize the plans for this project.
+Please note that [COMPANY_NAME] (original designer) was promptly notified about the change in the design professional for this project. [COMPANY_NAME] is now responsible for the continuation and execution of this work, including the revisions reflected in this submission. The following responses address the application acceptance requirements:
+NFPA 101 Ch. 7.2.6.3 Stair Discharge
+Response: The exit passageway discharging from the stair enclosure will maintain a 1-hour fire rating. Refer to detail 2/S-1 for further specifications.
+NFPA 101 Ch. 7.1.3.2.1 Stair Enclosure Rating
+Response: Please refer to detail 2/S-1 to identify the rating of the enclosed stair.
+Sprinkler System Declaration
+Response: The Life Safety (LS) plan have been updated to indicate whether a sprinkler system is present (No sprinkler present).
+NFPA 101 Ch. 39.2.4 Exit Specifications
+Response: All exits are designed not to exceed 100 ft in travel distance, per code requirements. See details 1 and 2 on the LS plans for layout information and distances.
+FBC Existing Building Compliance
+Response: Alterations comply with accessibility requirements per FBC AC201.1 (Vertical Accessibility) and FBC AC603 (Toilet and Bathing Rooms).
+[PERSON_NAME]
+Response: Refer to E-101 for the revised riser diagram.
+Second Exit Signage
+Response: An exit sign is included to direct occupants to the second exit on the second floor. Refer to layout on E-100.
+Rated Separation and Egress Stairs
+Response: Rated walls are specified and constructed per detail. The stairway does not discharge directly to the exterior; additional details are noted in Repeat Comment 3.
+Panel and Meter Location
+Response: Panel and meter location details are provided on E-101.
+Ventilation Requirements
+Response: Ventilation calculations and layout, per FMC 403.3.1.1, are indicated on C-1, showing both first and second floors.
+Also, please note that based on the owner’s feedback, the following modifications have been made to the project plans:
+Staircase Orientation: Reoriented to lead into the new addition to prevent obstruction of the existing front door.
+First Floor Doorway: Adjusted location of the access doorway to the existing storage, moving it 3 feet toward the front.
+New Side Windows: Added two new windows on the side wall of the warehouse.
+Bifold Front Window: Converted the front window to a bifold with the active panel on the far left.
+Raw Block Interior: Noted the option for raw block finish in place of drywall on Plan S-3.
+Rear Exit Door: Added a single exit door to the rear of the warehouse.
+We hope that this revised site plans provides resolutions to the comments and kindly request approval of the new site plan.
+Please contact us should you have any questions or require additional information.
+Sincerely,
+[ENGINEER_NAME], PE

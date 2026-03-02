@@ -1,0 +1,21 @@
+October 3rd, 2025
+[AGENCY_NAME]
+[PROJECT_ADDRESS] [ZIP_CODE]
+RE: [PROJECT_ADDRESS] New Braunfels Tx [ZIP_CODE] – Engineered Foundation Letter: 20'x35'x12' Residential Storage/Garage Accessory Metal Building (Non Habitable)
+To whom it may concern,
+Per the request of the contractor, we have reviewed the design of a new foundation at the above-referenced address to support a pre-engineered Residential Utility Storage Accessory Metal Building (Non-Habitable) with plan dimensions of 20'x35'x12'. This letter is provided to certify the foundation design in accordance with Chapter 4, Foundations, of the 2021 International Residential Code (IRC).
+Foundation Design Specifications (See attached engineer plans for more details):
+Slab: 4-inch-thick concrete slab reinforced with #3 rebar at 18" on center each way.
+Perimeter Footings: 12" wide by 18" depth, reinforced with (4) #4 continuous and #3 ties @ 18" O/C.
+(1) Interior Grade Footing: 12" wide by 18" depth, reinforced with (4) #4 continuous and #3 ties @ 18" O/C, in the middle of the long direction.
+Anchor Bolts/Anchorage: 1/2" Ø × 7" long expansion or concrete wedge anchors.
+Assumed Soil Bearing Capacity: 1500 psf minimum.
+Concrete Strength: Minimum 3000 psi at 28 days (design based on [PROJECT_ADDRESS] special inspection required).
+Control Joints: Installed to limit maximum slab spans to 20 feet in each direction.
+Notch/Edge Detail: Install 3” × 1 ½” notch or alternate detail shown on plans, as directed by Owner.
+The attached 12’x21’ approach driveway will consist of 4” slab with #3 rebar EW at 18” O.C.
+
+Based on our review of the foundation plan and the associated structural engineering sheets prepared by [COMPANY_NAME]., we certify that the proposed foundation design complies with the structural intent and requirements of the 2021 International Residential Code (IRC), Chapter 4 – Foundations. This certification pertains to the foundation design only and does not constitute verification of as-built construction.
+The reviewed permit drawings are included for reference. Please contact us with any questions or if additional information is required.
+Sincerely,
+[ENGINEER_NAME], PE

@@ -1,0 +1,61 @@
+August 5th, 2025
+[AGENCY_NAME]
+[PROJECT_ADDRESS] [ZIP_CODE]
+Project Address: [PROJECT_ADDRESS]
+Tier 1 Drainage and Grading Report
+Project Summary
+This report accompanies the grading and drainage plan prepared in support of a Residential Utility Accessory Metal Building project at [PROJECT_ADDRESS], being developed by [COMPANY_NAME]. The plan has been prepared as part of their contractor submittal package and is intended to demonstrate compliance with Tier 1 drainage review requirements outlined in the [JURISDICTION] (April 2025). The scope includes:
+One (1) 30' x 50' prefabricated metal building (1,500 SF)
+One (1) 10' x 10' concrete pad (100 SF)
+One (1) 12’ gravel access driveway (pervious)
+Total impervious surface added: 1,600 SF
+Total disturbed area: 22,000 SF (±0.505 acres)
+This qualifies under Tier 1 thresholds per the [JURISDICTION] (April 2025):
+< 1 acre disturbance
+< 2,000 SF new impervious area
+[PERSON_NAME]
+The site is a vacant residential lot with mild topography. Existing grades range from approx. 1220 to 1240 feet (see contour lines and spot elevations on grading plan, Sheet 1). The natural drainage direction is southeast toward a platted drainage easement.
+
+[PERSON_NAME]
+Finished Floor Elevation (FFE): 1234.5 ft
+Grading ensures minimum 2% slope away from structure for first 10 ft
+Site graded to promote sheet flow into existing natural drainage paths
+No proposed obstruction to existing offsite flow paths
+
+Drainage Pattern & Impact
+Stormwater from the site will continue to drain naturally toward the southeast and south, following existing topography and discharging into an adjacent drainage easement located along the rear of the property. The proposed grading maintains natural flow paths and does not introduce any new concentrated discharge points. No alterations to offsite drainage patterns are proposed, and the improvements have been designed to prevent ponding or diversion of runoff onto adjacent properties. As such, no adverse offsite drainage impacts are anticipated.
+
+[PERSON_NAME]
+[PERSON_NAME]
+Area (SF)
+Metal Building Slab
+30' x 50'
+1,500 SF
+[PERSON_NAME]
+10' x 10'
+100 SF
+Total
+
+1,600 SF
+
+
+
+Note: The ~6,000 SF gravel driveway is considered a pervious surface and is not included in the total impervious area calculation in accordance with [JURISDICTION] stormwater criteria.
+
+[PERSON_NAME]
+Refer to Plan Sheet 2 for additional details:
+Silt fence installed along downgradient perimeters
+Stabilized construction entrance at lot access point
+Concrete washout, sanitary facility, and trash area identified
+All BMPs in accordance with City and TCEQ guidelines
+
+Floodplain Compliance Memo
+The subject parcel is not located within a FEMA-designated Special Flood Hazard Area (SFHA) with the latest available FIRM data.
+There are no mapped floodplains or floodways affecting this site.
+Therefore, no compensatory storage or floodplain mitigation is required.
+The grading plan adheres to Chapter 9 of the Bulverde Code of Ordinances and the Flood Damage Prevention Ordinance.
+
+Certification
+This drainage plan was prepared by a licensed Professional Engineer in the State of Texas and is based on publicly available 2-ft contour data and client-provided site information. As such, the attached drainage and grading site plan is approved for this project. The proposed development complies with the [JURISDICTION] 1 stormwater design criteria and is consistent with TCEQ Construction General Permit guidelines for sites disturbing less than one acre. Structural drawings and additional submittals will be provided separately by the Contractor.
+Sincerely,
+[ENGINEER_NAME], PE

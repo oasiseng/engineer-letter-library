@@ -1,0 +1,21 @@
+December 22nd, 2025
+[AGENCY_NAME]
+[PROJECT_ADDRESS] [ZIP_CODE]
+RE: [PROJECT_ADDRESS] [ZIP_CODE]– Foundation Letter
+Dear [RECIPIENT],
+To whom it may concern,
+Per the request of the contractor, we have reviewed the design of a new foundation at the above-referenced address to support a pre-engineered Residential Utility Storage Accessory Metal Building (Non-Habitable) with plan dimensions of 16 ft x 25 ft x 10 ft. This letter is provided to certify the foundation design in accordance with Chapter 4, Foundations, of the 2021 International Residential Code (IRC).
+Foundation Design Specifications (See attached engineer plans for more details):
+Slab: 4-inch-thick concrete slab reinforced with #3 rebar at 18" on center each way, or 6x6#10 wire mesh.
+Perimeter Footings & Middle Interior Grade Footing (1): 12" wide by 18" depth, reinforced with (4) #4 continuous and #3 ties @ 48" O/C.
+Anchor Bolts/Anchorage: 1/2" Ø × 7" long expansion anchors, installed per ESR-2818, minimum embedment 3.75", edge distance ≥ 4", and located ≤ 6" from posts; anchor count per post per plan sheet 3A and 3B.
+Assumed Soil Bearing Capacity: 1500 psf minimum.
+Concrete Strength: Minimum 3000 psi at 28 days (design based on [PROJECT_ADDRESS] special inspection required).
+Control Joints: Installed to limit maximum slab spans to 20 feet in each direction.
+Notch/Edge Detail: 1 ½" x 1 ½" notch incorporated as shown on plans.
+
+
+Based on our review of the foundation plan and structural engineering sheets prepared by [COMPANY_NAME]. for this metal building, we certify that the proposed foundation design complies with the structural intent and requirements of IRC 2021, Chapter 4. The design is hereby approved for construction.
+The reviewed permit drawings are included for reference. Please contact us with any questions or if additional information is required.
+Sincerely,
+[ENGINEER_NAME], P.E.
