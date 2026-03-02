@@ -1,0 +1,21 @@
+[JURISDICTION] Building Department                                    September 30th, 2025
+[PROJECT_ADDRESS] [ZIP_CODE]
+RE: 	[PROJECT_ADDRESS] [ZIP_CODE] – [PROJECT_NAME]
+SUBJ: In-progress Inspections – Permit No. [PERMIT_ID]
+Dear [RECIPIENT],
+Per the request of the contractor, we have been engaged to provide an engineering final inspection and certification for the completed door and window replacement project at the above-referenced residence, [PROJECT_ADDRESS] [ZIP_CODE]. This letter is intended to document the inspection, confirm compliance, and assist with closing the active permit record. The scope of work reviewed includes the full replacement of exterior doors and windows in accordance with the approved shop drawings dated 12/19/2024. The specified systems incorporate:
+
+SP60 Fixed Window-LMI: FL40279.1-R2
+SPA100 Aluminum Outswing Glass Door: FL29092.1-R3
+SPA150 Window Wall System: FL29474.1-R6
+SPA100 Aluminum Sliding Glass Door: FL30906.1-R2
+SP86 Aluminum Single Hung Window: FL46774.1-R0
+
+To the best of my knowledge and ability, the referenced work was constructed in compliance with applicable engineering standards, approved plans, and the Florida Building Code. Therefore, this letter certifies that the installation has been inspected and is recommended for approval as the final inspection, for closure of the permit record.
+Please note that this certification is limited to the installed door and window systems referenced herein and does not represent a full structural assessment of the overall building envelope or foundation.
+Please contact us should you have any questions or require additional information.
+Sincerely,
+[ENGINEER_NAME], PE
+Supporting Photographs
+
+

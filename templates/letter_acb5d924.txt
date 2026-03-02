@@ -1,0 +1,14 @@
+January 19th, 2026
+[AGENCY_NAME]
+[PROJECT_ADDRESS]. [CITY_STATE] [ZIP_CODE]
+RE: [PROJECT_ADDRESS] [ZIP_CODE]– Final/ Framing Inspections- Metal Structure / Framing/Final Inspection Letter – Permit No. [PERMIT_ID]
+Dear [RECIPIENT],
+The team at [COMPANY_NAME]. constructed the project referenced above in accordance with construction documents prepared by [COMPANY_NAME], for a Residential Storage/Garage Accessory 24'x28'x12' Metal Building. The scope of this letter includes the primary structural system, consisting of the main structural framing, roof framing, and wall framing intended to resist applicable gravity and lateral loads in accordance with the 2021 Edition of the International Residential Code (IRC), including Chapter 6, as adopted by the [JURISDICTION], Texas. These structural construction documents were used to obtain the building permit for this project.
+Qualified representatives from this office visited the site to perform field observations of the completed structural framing work for general conformance with the referenced construction documents. Based on our observations, and to the best of our knowledge, experience, information, and belief, the structural elements observed—including primary framing members, framing layout, and general load path components—appear to be in general conformance with the approved construction documents.
+Our field observations were performed in accordance with generally accepted engineering practices and contractual standards for limited construction phase services. These observations are not intended to, and do not, constitute continuous inspection, a full structural verification, or “Special Inspections” as defined by Section 1704 of the 2021 International Building Code.
+As indicated by the professional engineering seal on the approved construction documents and this letter, we believe that we have fulfilled our professional obligations under the Texas Engineering Practice Act to safeguard public health, safety, and welfare within the scope of services provided.
+This certification is limited to a general engineering review for permitting and inspection support purposes only. It does not constitute responsibility for the original design, fabrication, erection means and methods, concealed conditions, or overall code compliance of the pre-engineered or metal building system, which remain the responsibility of others.
+Our evaluation has been performed in accordance with generally accepted engineering practices and the applicable provisions of the International Residential Code (IRC) as adopted by the [JURISDICTION], Texas.
+Please contact us should you have any questions or require additional information.
+Sincerely,
+[ENGINEER_NAME], P.E.

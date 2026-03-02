@@ -1,0 +1,10 @@
+January 29th, 2024
+[AGENCY_NAME]
+[PROJECT_ADDRESS] [ZIP_CODE]
+RE: [PROJECT_ADDRESS] [ZIP_CODE]– Foundation Plan for Metal Building / Engineered Foundation Letter
+Dear [RECIPIENT],
+Per the request of the Owner, we have reviewed the engineering plans for the construction of a new metal building at [PROJECT_ADDRESS] [ZIP_CODE].
+The engineering plans include the specification for engineered concrete slab foundation to be used for this project. This letter is to provide engineering certification to the engineering design of the foundation, consisting of 4” 3,000 psi concrete slab on grade with #3 rebar @ 18" c/c e.w) with 12” wide engineered reinforced concrete 18” deep footings on the perimeter as detailed on the plans attached. This foundation covers a total plan area of 1,218 SF (total foundation footprint). Additionally, this letter is to certify that the proposed metal structure, as detailed on the attached plans, is structurally sound for 115 MPH wind loading. For additional dimensions, notes, and applicable details, please refer to the attached engineering drawings that correspond to this project. To the best of my knowledge and ability, the referenced engineered foundation and metal structure are designed following the applicable engineering standards and building codes, including the International Residential Code (IRC) 2018. I hereby affirm that existing subsurface groundwater conditions and soils data were examined, and that the foundation design submitted has accounted for these conditions.
+Please contact us should you have any questions or require additional information.
+Sincerely,
+[ENGINEER_NAME], PE

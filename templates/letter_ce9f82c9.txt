@@ -1,0 +1,48 @@
+October 14th, 2025
+[AGENCY_NAME]
+[PROJECT_ADDRESS] [ZIP_CODE]
+Project Address: [PROJECT_ADDRESS]
+Drainage and Grading Report
+Project Summary
+This report accompanies the grading and drainage plan prepared in support of a Residential Utility Accessory Metal Building project at [PROJECT_ADDRESS] [ZIP_CODE], being developed by [COMPANY_NAME]. The plan has been prepared as part of their contractor submittal package to the Town of Flower Mound and is intended to demonstrate compliance with applicable minor grading and stormwater management requirements in accordance with the Town’s Municipal Separate Storm Sewer System (MS4) program and the Integrated Stormwater Management (iSWM) Criteria Manual (NCTCOG, 2015). The scope includes:
+One (1) 20' × 35' × 12' prefabricated metal utility building (slab-on-grade).
+Finished Floor Elevation (FFE): to be set per Sheet C001 to maintain positive drainage away from slab.
+Grading intent: maintain existing overland sheet flow; no new concentrated discharge points; no fill placed within any mapped drainage easement.
+Total impervious surface added: 700 SF (approx. 20'×35' slab).
+Total disturbed area: 7,600 SF (0.174 ac)
+The total disturbed area associated with the grading work is estimated at 7,600 square feet (0.174 acres), which is below the one-acre threshold that would trigger Texas Commission on Environmental Quality (TCEQ) Construction General Permit (TXR150000) coverage or a formal Storm Water Pollution Prevention Plan (SWPPP). Nevertheless, appropriate best management practices (BMPs) are included to ensure compliance with the Town’s erosion and sediment control expectations for sub-acre projects.
+[PERSON_NAME]
+The site is an existing residential lot with mild natural relief and no existing structures in the immediate improvement area. Existing ground elevations range generally between 658 and 642 feet (NAVD 88) based on available topographic data, with natural sheet drainage flowing south and southeast toward existing shallow swales and landscaped areas within the property boundaries.
+[PERSON_NAME]
+Finished Floor Elevation (FFE):655.77 ft
+Grading ensures minimum 2% slope away from structure for first 10 ft
+Site graded to promote sheet flow into existing natural drainage paths
+No proposed obstruction to existing offsite flow paths
+Drainage Pattern & Impact
+The proposed grading has been designed to maintain these natural drainage patterns, preventing the creation of any new concentrated discharge points or diversion of runoff onto adjacent parcels. Finished grading around the new slab ensures a minimum 2% slope away from the structure for the first 10 feet in all directions, consistent with good engineering practice and the International Residential Code (IRC R401.3) drainage requirements.
+No alterations to offsite drainage patterns are proposed, and the improvements have been designed to prevent ponding or diversion of runoff onto adjacent properties. As such, no adverse offsite drainage impacts are anticipated.
+[PERSON_NAME]
+[PERSON_NAME]
+Area (SF)
+Metal Building Slab
+35' x 20'
+700 SF
+Total
+
+700 SF
+
+
+
+Note: A gravel driveway, if installed, is considered a pervious surface and is not included in the total impervious area calculation in accordance with [JURISDICTION] stormwater criteria.
+[PERSON_NAME]
+Refer to Plan Sheet 2 for additional details:
+Silt fence installed along downgradient perimeters
+Stabilized construction entrance at lot access point
+Concrete washout, sanitary facility, and trash area identified
+All BMPs in accordance with City and TCEQ guidelines
+Floodplain Compliance Memo
+The property is not located within a FEMA-designated Special Flood Hazard Area (SFHA) according to the latest available Flood Insurance Rate Map (FIRM). No floodways, creeks, or mapped floodplains affect the site, and no compensatory storage or floodplain mitigation is required.
+Certification
+This grading and drainage plan was prepared under the supervision of a licensed Professional Engineer in the State of Texas using publicly available contour data and client-provided site information. The proposed development meets the Town of Flower Mound’s minor drainage and grading requirements and is consistent with the iSWM Criteria Manual for projects disturbing less than one acre. The attached drawings and notes are approved for construction and submittal to the Town.
+Sincerely,
+[ENGINEER_NAME], PE

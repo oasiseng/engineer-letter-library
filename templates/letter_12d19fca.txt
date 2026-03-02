@@ -1,0 +1,65 @@
+[AGENCY_NAME]
+Project: [PROJECT_INFO]
+Location: [PROJECT_ADDRESS], [CITY_STATE]
+Inspection Scope: Second Floor Wall Sheathing (Framing Stage)
+Observation Date: ____________________
+Inspector: ____________________
+Weather Conditions: ____________________
+📐 REFERENCE DOCUMENTS
+Structural Sheets: WT (Wall Sheathing), RB (Gable End on Concrete Wall), WM/WN Bearing Wall Details
+Sheathing Nailing Schedule & Flashing Details at Concrete/Frame Interface
+🧱 INSPECTION ITEMS — SECOND FLOOR WALL SHEATHING
+1. Sheathing Material
+☐ 1/2" CDX Plywood
+☐ 7/16" OSB
+☐ 1/2" T-111
+Material consistent with plans: ☐ Yes ☐ No
+Condition (dry, undamaged, flat): ☐ Acceptable ☐ Issues noted
+2. Sheathing Installation
+☐ Sheathing installed continuously over second-floor exterior walls
+☐ Panels installed with correct orientation
+☐ Panel edges aligned over studs/blocking
+☐ No excessive gaps or overhangs
+3. Nailing Schedule — WT DETAIL
+☐ Fasteners: 8d common (or better)
+☐ Edge nailing: 4" O.C.
+☐ Field nailing: 8" O.C.
+☐ Nails properly seated (not overdriven or underdriven)
+Observed deviations: ☐ None ☐ Yes (describe below)
+4. Blocking & Support
+☐ Blocking provided at panel edges where required
+☐ Blocking at floor line between stories (sheathing lap condition)
+☐ Blocking tight and properly fastened
+
+5. Openings (Windows / Doors)
+☐ Sheathing properly cut at openings
+☐ No over-notching or excessive cutback
+☐ Proper edge fastening around openings
+☐ Header and stud layout consistent with bearing wall details
+6. Bearing Wall Coordination
+☐ Full-height studs at bearing walls
+☐ Double top plates present with 48" min splice laps
+☐ Sheathing continuous across bearing wall lines
+7. Gable End / CMU Interface (If Applicable)
+☐ Sheathing properly terminated at CMU walls
+☐ Flashing detail provided at concrete/frame interface
+☐ Expansion joint with minimum 2" lap onto masonry
+☐ Drainage plane laps correctly to expansion joint
+8. Weather-Resistive Barrier (If Installed)
+☐ House wrap installed over sheathing
+☐ WRB lapped correctly (top over bottom)
+☐ No major tears or gaps observed
+📷 PHOTO DOCUMENTATION REQUIRED
+At minimum, capture:
+☐ Overall second-floor elevation(s)
+☐ Typical wall sheathing panel (field + edge nailing)
+☐ Close-up of nailing pattern with tape measure
+☐ Sheathing at window/door openings
+☐ Sheathing at bearing wall lines
+☐ Gable end or CMU/frame interface (if present)
+☐ Any field deviations or notable conditions
+
+📝 FIELD NOTES / OBSERVATIONS
+
+
+

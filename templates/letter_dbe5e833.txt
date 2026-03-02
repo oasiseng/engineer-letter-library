@@ -1,0 +1,44 @@
+[AGENCY_NAME]
+[PROJECT_ADDRESS] [ZIP_CODE]
+
+RE: Plan Review Comment Response – Permit No. [PERMIT_ID]
+Dear [RECIPIENT],
+Dear [RECIPIENT],
+This letter is submitted in response to the plan review comments associated with Permit No. [PERMIT_ID] for the project located at [PROJECT_ADDRESS] [ZIP_CODE].
+Each comment is addressed individually below. Revised drawings and supporting documentation have been uploaded as part of this resubmittal.
+1. ZONING – Sec. 27-290. Accessory Structures
+Reviewer Comment (Status: OPEN):
+It appears the separation distance was not provided. For all other districts, the minimum separation between the accessory and principal structure shall be five (5) feet. Please note separation distance is measured from eave to eave. Demonstrate compliance by displaying the separation distance on the plan.
+(Requires modifications to be submitted)
+Response:
+The required separation distance between the principal structure and the accessory structure has been added to the site plan. The minimum 5.5 foot separation is now dimensioned and clearly shown on Sheet A0.1.
+2. ZONING – Sec. 27-43. Definitions (Covered Walkway / Breezeway)
+Reviewer Comment (Status: OPEN):
+It appears the dimensions of the passageway have not been provided. Walkway, covered ("breezeway"): A covered passage, open on the sides, designed to connect two (2) buildings and typically only as wide as the entrance/exit of said buildings. Demonstrate compliance by dimensioning the width and ensuring the passageway is only as wide as the entrance/exit of buildings.
+(Requires modifications to be submitted)
+Response:
+The covered passageway width has been dimensioned on the plans and is shown to be only as wide as the corresponding entrance openings of the connected structures.
+3. ZONING – Sec. 27-290. Connection Between Principal and Accessory Structures
+Reviewer Comment (Status: OPEN):  Please clarify whether the connective portion between the principal and accessory structure is a breezeway or an enclosed passageway. Breezeways are open on all sides, enclosed passageways are not. Please clarify so setbacks can be evaluated. Principal and accessory structures shall not be connected by any type of enclosed passageway or room addition unless all structures meet principal structure setbacks. If this passageway is enclosed, the accessory structure must meet RS-60 principal structure setbacks: Front: 25', Side: 7', Rear: 20'. Demonstrate compliance by labeling the passageway and clarifying whether it is enclosed or not.
+(Requires modifications to be submitted)
+Response: the connective portion between the principal and accessory structure has been clarified and labeled on the plans as an open breezeway, open on all sides and not enclosed. This condition is now clearly noted on Sheets A0.1 and A1.0, confirming that principal structure setbacks are not triggered.
+4. ZONING – Sec. 27-43. Definitions (Duplicate Breezeway Width Comment)
+Reviewer Comment (Status: OPEN): It appears the dimensions of the passageway have not been provided. Walkway, covered ("breezeway"): A covered passage, open on the sides, designed to connect two (2) buildings and typically only as wide as the entrance/exit of said buildings. Demonstrate compliance by providing the width and ensuring the passageway is only as wide as the entrance/exit of buildings.
+(Requires modifications to be submitted)
+Response: As noted above, the breezeway width has been dimensioned on the plans and matches the width of the associated entrance openings. Dimensions have been added to Sheets A0.1 and A1.0 to demonstrate full compliance.
+5. SITE – Stormwater Advisory List (SAL)
+Reviewer Comment (Status: OPEN): The lot is in a stormwater advisory list (SAL)… SWE requires the pipe to be field-located horizontally and vertically by a Florida Registered Surveyor… The accessory structure must be outside of the reserved 15' utility easement, 7.5' on the applicant's property… The site plan shows a 4’-8" setback at a minimum 7.5' off the South property line, which must be maintained and possibly more depending on the results of field-verified horizontal and vertical configuration of the storm pipe.
+(Requires modifications to be submitted)
+Response: The site plan has been revised, and the Contractor/Owner are submitting a variance request for this remark.
+6. SITE – Site Data Chart / Impervious Area
+Reviewer Comment (Status: OPEN): Currently, the total impervious area exceeds 50%, which requires onsite retention of 0.5 inches of runoff volume from the entire lot… Revise the plans to include a designed system that demonstrates the ability to manage this required volume.
+(Requires modifications to be submitted)
+Response: The impervious area calculations have been reviewed. The plans have been revised to include onsite stormwater management measures consistent with the [JURISDICTION] to address the required 0.5 inches of runoff retention. Applicable notes and system details have been added to Sheet A0.1.
+7. BUILDING – Floodplain / DFE Requirements
+Reviewer Comment (Status: OPEN): The DFE elevation and the FFE elevation must be called out on the elevations page, foundation page, floor plan, all details showing finish materials, and electrical page demonstrating compliance with no finish materials or MEP's below the DFE. Please add this information where required throughout the plan set.
+R322.2.1 Elevation requirements. COT-5-121.246
+(Requires modifications to be submitted)
+Response: The Design Flood Elevation (DFE) and Finished Floor Elevation (FFE) have been added throughout the plan set, including the floor plan, foundation details, elevations, applicable construction details, and electrical sheets, demonstrating compliance with FBC Residential Section R322.2.1 and [JURISDICTION] floodplain requirements.
+We trust the above responses satisfactorily address all review comments. Please feel free to contact our office should any additional clarification be required.
+Respectfully submitted,
+[ENGINEER_NAME], PE

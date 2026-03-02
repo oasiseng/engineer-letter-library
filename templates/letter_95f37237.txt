@@ -1,0 +1,38 @@
+[AGENCY_NAME]
+[PROJECT_ADDRESS]’ [PROJECT_ADDRESS]. [ADDRESS] [CITY_STATE] [ZIP_CODE]
+RE:	[PROJECT_ADDRESS] [ZIP_CODE] – Engineered Foundation Letter. Permit Nos. [PERMIT_ID]
+Dear [RECIPIENT],
+Per the request of the Owner, we have reviewed the construction of a new foundation at [PROJECT_ADDRESS] [ZIP_CODE]. Initially, it appears that a flatwork (concrete) permit, Permit No. [PERMIT_ID] was used by others to construct the referenced foundation. Currently, [COMPANY_NAME] is pursuing the construction of a metal structure on this foundation with Permit No. [PERMIT_ID].
+This letter is to provide engineering certification for the engineered concrete slab foundation to be used for this project, consisting of a reinforced concrete 25’Wx40’ L 6” slab with 12” concrete footings. This foundation covers a total plan area of 1000 SF (total foundation footprint). For additional dimensions, notes, and applicable details, please refer to the attached engineering drawings that correspond to this project.
+To the best of my knowledge and ability, the referenced engineered foundation was designed following the applicable engineering standards and building codes, including the International Residential Code (IRC) 2021, and its adequate for the installation of the proposed metal structure. I hereby affirm that existing subsurface groundwater conditions and soils were examined, and that the foundation design submitted has accounted for these conditions. We are including construction photographs and prior inspection records for further reference.
+Please contact us should you have any questions or require additional information.
+
+[ENGINEER_NAME], PE
+Supporting Photographs
+Subject Foundation Overview
+
+Subject Foundation Overview
+
+Subject Foundation Overview
+
+
+Subject Foundation Overview
+
+Subject Foundation – Rebar Inspection – Passed Inspection Permit Record 07/06/2023
+
+Subject Foundation – Passed Inspection Permit Record 04/01/2022
+
+
+
+
+
+Subject Foundation – Concrete Final - Passed Inspection Permit Record 07/11/2023
+
+
+
+
+
+
+Referenced Permit Records
+
+

@@ -1,0 +1,19 @@
+[AGENCY_NAME]
+[PROJECT_ADDRESS] [ZIP_CODE]
+
+Project Information: [PROJECT_INFO]
+Project Description: Covered Work Inspection for Flood Repairs Project (Non-Invasive Visual Inspection)
+
+Dear [RECIPIENT],
+Pursuant to the inspection requirements applicable per the Florida Statutes 553.791 & 553.844 and Florida Building Code (FBC) 2023 8th Edition for the flood restoration project work under permit [PERMIT_ID], the following inspections have been completed as of 02/25/2026:
+
+BLD - Insulation
+To the best of my knowledge and ability, the referenced work was constructed following the applicable engineering standards, and codes, as prescribed by the permit [PERMIT_ID] requirements, and is found to be in conformance with the Florida Building Code, [PROJECT_ADDRESS] should be noted that the walls were covered prior to in-progress inspection by the Building Official. Accordingly, this certification is based on a review of available documentation, including photographic evidence, construction records, and supporting data, together with a final non-invasive visual inspection.
+Infrared thermography was utilized as a supplemental observational tool to identify temperature differentials consistent with insulation presence and continuity. No anomalies indicative of widespread insulation voids or discontinuities were observed at the time of inspection.
+Based on the documentation reviewed and field observations performed, the insulation installation appears consistent with the intent of the approved permit documents and applicable provisions of the Florida Building Code – Energy Conservation (8th Edition, 2023).
+[COMPANY_NAME] respectfully recommends final approval by the Building Official. Please contact us should you have any questions or require additional information.
+Sincerely,
+[ENGINEER_NAME], PE
+Supporting Photographs
+
+
